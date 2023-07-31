@@ -1,0 +1,17 @@
+GIT HUB
+
+it is web base cloud service to post your source code 
+it is a version control tool
+to track the changes in the source code.
+
+
+password 
+github@45!
+
+
+git init       (for initialization)
+git status
+git add t1.txt       (to add file)
+git commit -m "first commit"      (to commit  a file)
+git remote add orgin https://github.com/Pranavswarup45/luminarfile.git
+git push orgin master 
